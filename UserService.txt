@@ -1,4 +1,3 @@
 this is my users data...
 process the data
-
 Create an avatar for a user
